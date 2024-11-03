@@ -1,0 +1,13 @@
+.back {
+  background-color: #2b70e4;
+}
+.book {
+  background-color: #ff914d;
+}
+#svg {
+  fill: #ff914d;
+}
+.vertical
+{
+    transform: rotate(270deg);
+}
